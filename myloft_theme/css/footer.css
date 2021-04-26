@@ -1,0 +1,45 @@
+footer {
+    width: 100%;
+    font-weight: 300;
+}
+
+.footer__inner {
+    width: 100%;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.footer__logo {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.footer__logo img {
+    object-fit: contain;
+}
+
+.footer__instagram {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.footer__navis {
+    margin-bottom: 40px;
+}
+
+.footer__navi {
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+}
+
+.footer__copyright {
+    text-align: center;
+}

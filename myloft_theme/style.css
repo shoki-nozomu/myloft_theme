@@ -1,0 +1,13 @@
+/*
+Theme Name: オリジナルテーマ
+*/
+
+@charset "utf-8";
+@import "css/base.css";
+@import "css/parts.css";
+@import "css/header.css";
+@import "css/footer.css";
+@import "css/front-page.css";
+@import "css/post.css";
+@import "css/contactform7.css";
+@import "css/sp.css";

@@ -1,0 +1,167 @@
+/**************************************
+CONTACT
+***************************************/
+
+.contact__frame {
+    margin: 0 auto;
+    color: #fff;
+    background-color: #68895D;
+    padding: 60px 20px;
+	margin-top: 115px;
+}
+
+.contact__header {
+    font-size: 1.8rem;
+    letter-spacing: 5px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.contact__form {
+    max-width: 1156px;
+    margin: 0 auto;
+}
+
+/**************************************
+index
+***************************************/
+
+.index {
+    background-color: #fff;
+    color: #000;
+    margin: 0 auto;
+    border-bottom: solid 2px #888;
+    text-align: center;
+    padding: 60px 40px;
+	margin-top: 115px;
+}
+
+.index__inner {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    max-width: 1156px;
+}
+
+.index__categoryname {
+    margin: 80px auto;
+    text-align: center;
+    font-size: 2rem;
+    letter-spacing: 5px;
+}
+
+.index__post {
+    text-align: left;
+    position: relative;
+    padding: 20px 0;
+    border-bottom: solid 1px #888;
+}
+
+/**************************************
+固定ページ
+***************************************/
+
+.page {
+    margin: 0 auto;
+    margin-bottom: 100px;
+    max-width: 1156px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    padding: 0 20px;
+}
+
+.page__title {
+    font-size: 1.8rem;
+    letter-spacing: 5px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.page__text {
+    padding: 20px;
+}
+
+/**************************************
+投稿ページ
+***************************************/
+
+.post {
+    margin: 0 auto;
+    margin-bottom: 100px;
+    max-width: 1156px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    padding: 0 20px;
+}
+
+.post__content h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.post__content h2 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    border-left: solid 10px #68895D;
+    padding: 0 10px;
+    margin-top: 40px;
+}
+
+.post__content h3 {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #68895D;
+    margin-top: 30px;
+}
+
+.post__title {
+    font-size: 1.8rem;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+
+.post__date {
+    font-size: 0.9rem;
+    color: #7F7F7F;
+    margin-bottom: 20px;
+}
+
+blockquote {
+    border: solid 1px #000;
+    padding: 20px;
+}
+
+.post__headerbottom {
+    width: 100%;
+    border-bottom: solid 1px #7F7F7F;
+    margin-bottom: 40px;
+}
+
+/**************************************
+ページャ
+***************************************/
+
+.index__pagination {
+    margin: 40px auto;
+}
+
+.index__pagination .page-numbers {
+    font-size: 0.9rem;
+    margin: 0 10px;
+    padding: 3px 10px;
+    color: #68895D;
+}
+
+.index__pagination .current {
+    background-color: #DBDBDB;
+}
+
+.index__pagination .prev {
+    border: solid 1px #68895D;
+}
+
+.index__pagination .next {
+    background-color: #68895D;
+    color: #fff;
+}
